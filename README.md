@@ -74,9 +74,9 @@ Custom and Built-in Visuals
 
 Geo Maps (Bing Maps)
 
-👤 Author
-Lamkhade Aarti
-🔗 GitHub: (https://github.com/Aarti07-spec)
+👤 Author <br>
+Lamkhade Aarti<br>
+🔗 GitHub: (https://github.com/Aarti07-spec)<br>
 📧 Email: aartilamkhade72@gmail.com
 
 
